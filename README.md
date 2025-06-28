@@ -16,7 +16,19 @@ dst.
 
 ## Problem Background
 
-Dalam dunia ritel modern, pengambilan keputusan terhadap suatu bisnis sangat berpengaruh besar dengan impact yang akan terjadi pada perkembangan bisnis tersebut. Dalam mengambil keputusan bisnis tidak bisa hanya dengan mengandalkan intuisi ataupun feeling saja, tetapi juga harus didasari oleh data, informasi dan analisis yang tajam serta akurat. Supermarket merupakan salah satu ritel yang dinamis, menghadapi tantangan dalam memahami perilaku konsumen, mengelola peforma penjualan, dan mengoptimalkan strategi pemasaran. Pada analisis kali ini, terdapat seorang client yang merupakan manager sales & marketing dari supermarket yang memiliki jaringan yang cukup besar. Beliau ingin melihat bagaimana pola penjualan, trend, dan performa tiap cabang yang ada pada perusahaanya tersebut. Tujuannya agar beliau bisa meningkatkan penjualan penjualan keseluruhan tiap cabangnya sebesar 15% dari penjualan sebelumnya dalam kurun waktu 1 bulan setelah penjualan terakhir, agar bisa melakukan ekspansi cabang secara strategis. Perusahaannya sudah menerapkan digitalisasi data dari transaksinya, namun sampai saat ini masih belum ada analisis mendalam yang menjawab pertanyaan penting seperti berikut: - Kapan waktu tertinggi dan terendah total penjualan terjadi? - Bagaimana persebaran gender customer yang sudah menjadi member? - Kategori produk apa yang paling banyak terjual? - Kota mana yang memiliki performa penjualan terbaik? - Cabang mana yang mempunyai penjualan terendah? - Apakah gender mempengaruhi penjualan?
+Dalam dunia ritel modern, pengambilan keputusan terhadap suatu bisnis sangat berpengaruh besar dengan impact yang akan terjadi pada perkembangan bisnis tersebut. Dalam mengambil keputusan bisnis tidak bisa hanya dengan mengandalkan intuisi ataupun feeling saja, tetapi juga harus didasari oleh data, informasi dan analisis yang tajam serta akurat. Supermarket merupakan salah satu ritel yang dinamis, menghadapi tantangan dalam memahami perilaku konsumen, mengelola peforma penjualan, dan mengoptimalkan strategi pemasaran. Pada analisis kali ini, terdapat seorang client yang merupakan manager sales & marketing dari supermarket yang memiliki jaringan yang cukup besar. Beliau ingin melihat bagaimana pola penjualan, trend, dan performa tiap cabang yang ada pada perusahaanya tersebut. Tujuannya agar beliau bisa meningkatkan penjualan penjualan keseluruhan tiap cabangnya sebesar 15% dari penjualan sebelumnya dalam kurun waktu 1 bulan setelah penjualan terakhir, agar bisa melakukan ekspansi cabang secara strategis. Perusahaannya sudah menerapkan digitalisasi data dari transaksinya, namun sampai saat ini masih belum ada analisis mendalam yang menjawab pertanyaan penting seperti berikut: 
+
+- Kapan waktu tertinggi dan terendah total penjualan terjadi? 
+
+- Bagaimana persebaran gender customer yang sudah menjadi member? 
+
+- Kategori produk apa yang paling banyak terjual? 
+
+- Kota mana yang memiliki performa penjualan terbaik? 
+
+- Cabang mana yang mempunyai penjualan terendah? 
+
+- Apakah gender mempengaruhi penjualan?
 
 ## Project Output
 
