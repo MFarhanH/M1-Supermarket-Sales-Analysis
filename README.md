@@ -7,9 +7,11 @@ Supermarket Sales Analysis
 Contoh:
 
 ```
-1. description.md - Penjelasan gambaran umum project
+1. Readme.md - Penjelasan gambaran umum project
 2. P0M1_MuhammadFarhan Hendriyanto.ipynb - Notebook yang berisi pengolahan data dengan python
-3. Milestone/p0-ftds027-hck-m1-MFarhanH/supermarket_sales - Sheet1.csv - Data Awal
+3. Milestone/p0-ftds027-hck-m1-MFarhanH/supermarket_sales - Sheet1.csv -> Data Awal
+4. Data Supermart Clean.xlsx -> Data Setelah Cleaning
+5. P0M1_MuhammadFarhan_Hendriyanto_dataset -> Data for testing
 
 dst.
 ```
@@ -92,9 +94,16 @@ Metode yang dipakai adalah analisis deskriptif dan analisis inferensial
 
 ## Stacks
 
-Bahasa pemrograman: Python
-Tools: VsCode dan Tableau
-Library: - Pandas - Plotly Express - Scipy
+- Bahasa pemrograman: 
+  - Python
+- Tools: 
+  - VsCode
+  - Tableau
+- Library: 
+  - Pandas 
+  - Plotly Express 
+  - Matplotlib
+  - Scipy
 
 ## Reference
 
