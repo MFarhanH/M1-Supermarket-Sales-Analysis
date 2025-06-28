@@ -47,25 +47,32 @@ Data terdiri dari beberapa kolom dengan nama sebagai berikut:
 
   # Column Non-Null Count Dtype
 
-  ***
-
-  0 Invoice ID 1002 non-null object
-  1 Branch 1002 non-null object
-  2 City 1001 non-null object
-  3 Customer type 1001 non-null object
-  4 Gender 1002 non-null object
-  5 Product line 1002 non-null object
-  6 Unit price 1001 non-null float64
-  7 Quantity 1002 non-null int64  
-   8 Tax 5% 1001 non-null float64
-  9 Total 1002 non-null object
-  10 Date 1002 non-null object
-  11 Time 1002 non-null object
-  12 Payment 1002 non-null object
-  13 cogs 1001 non-null float64
-  14 gross margin percentage 1001 non-null object
-  15 gross income 1001 non-null float64
-  16 Rating 1001 non-null float64
+  ```
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1002 entries, 0 to 1001
+Data columns (total 17 columns):
+ #   Column                   Non-Null Count  Dtype  
+---  ------                   --------------  -----  
+ 0   Invoice ID               1002 non-null   object 
+ 1   Branch                   1002 non-null   object 
+ 2   City                     1001 non-null   object 
+ 3   Customer type            1001 non-null   object 
+ 4   Gender                   1002 non-null   object 
+ 5   Product line             1002 non-null   object 
+ 6   Unit price               1001 non-null   float64
+ 7   Quantity                 1002 non-null   int64  
+ 8   Tax 5%                   1001 non-null   float64
+ 9   Total                    1002 non-null   object 
+ 10  Date                     1002 non-null   object 
+ 11  Time                     1002 non-null   object 
+ 12  Payment                  1002 non-null   object 
+ 13  cogs                     1001 non-null   float64
+ 14  gross margin percentage  1001 non-null   object 
+ 15  gross income             1001 non-null   float64
+ 16  Rating                   1001 non-null   float64
+dtypes: float64(5), int64(1), object(11)
+memory usage: 133.2+ KB
+  ```
 
 ## Method
 
