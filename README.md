@@ -31,7 +31,7 @@ Dalam dunia ritel modern, pengambilan keputusan terhadap suatu bisnis sangat ber
 - Apakah gender mempengaruhi penjualan?
 
 ## Project Output
-Output dari project ini adalah Dashboard tentang visualisasi data dari problem statement yang ada.
+Output dari project ini adalah Membuat dasbor penjualan dari supermarket store berdasarkan problem statement yang telah dibuat.
 
 ## Data
 
