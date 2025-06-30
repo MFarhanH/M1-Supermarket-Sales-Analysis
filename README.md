@@ -4,16 +4,14 @@ Supermarket Sales Analysis
 
 ## Repository Outline
 
-Contoh:
-
 ```
-1. Readme.md - Penjelasan gambaran umum project
-2. P0M1_MuhammadFarhan Hendriyanto.ipynb - Notebook yang berisi pengolahan data dengan python
-3. Milestone/p0-ftds027-hck-m1-MFarhanH/supermarket_sales - Sheet1.csv -> Data Awal
-4. Data Supermart Clean.xlsx -> Data Setelah Cleaning
-5. P0M1_MuhammadFarhan_Hendriyanto_dataset -> Data for testing
-
-dst.
+M1-Supermarket-Sales-Analysis/
+├── P0M1_MuhammadFarhan_Hendriyanto.ipynb
+├── P0M1_MuhammadFarhan_Hendriyanto_dataset.csv
+├── P0M1_MuhammadFarhan_Hendriyanto_dataset.xlsx
+├── supermarket_sales - Sheet1.csv
+├── Data Supermart Clean.xlsx
+└── README.md - Penjelasan gambaran umum project
 ```
 
 ## Problem Background
@@ -33,7 +31,6 @@ Dalam dunia ritel modern, pengambilan keputusan terhadap suatu bisnis sangat ber
 - Apakah gender mempengaruhi penjualan?
 
 ## Project Output
-
 Output dari project ini adalah Dashboard tentang visualisasi data dari problem statement yang ada.
 
 ## Data
